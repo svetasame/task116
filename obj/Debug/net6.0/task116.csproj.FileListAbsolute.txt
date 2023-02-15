@@ -1,0 +1,15 @@
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.csproj.AssemblyReference.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.AssemblyInfoInputs.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.AssemblyInfo.cs
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.csproj.CoreCompileInputs.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\bin\Debug\net6.0\task116.exe
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\bin\Debug\net6.0\task116.deps.json
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\bin\Debug\net6.0\task116.runtimeconfig.json
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\bin\Debug\net6.0\task116.dll
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\bin\Debug\net6.0\task116.pdb
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.dll
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\refint\task116.dll
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.pdb
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\task116.genruntimeconfig.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\task116\obj\Debug\net6.0\ref\task116.dll
